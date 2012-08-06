@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php
+        include 'memos.php';
         ?>
     </body>
 </html>
